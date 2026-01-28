@@ -1,0 +1,11 @@
+{
+    "name": "PUNK #1",
+    "description": "A Cool PUNK!!!!",
+    "image": "https://ipfs.io/ipfs/QmSu1p3cC5yzSvW2qKSHjPPyB18bFQZnGj8S1nH4VAY8DP",
+    "attributes": [
+        {
+            "trait_type": "cuteness",
+            "value": 100
+        }
+    ]
+}
