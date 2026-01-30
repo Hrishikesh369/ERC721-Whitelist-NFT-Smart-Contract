@@ -42,8 +42,8 @@ The "CryptoDev" smart contract is a collection of 20 mintable NFT's, it uses ERC
 
 ## Interact
 
-Interact with Whitelist and CryptoDev contracts deployed on Sepolia at Etherscan -
+Interact with project contracts deployed on Sepolia at Etherscan -
 
-https://sepolia.etherscan.io/address/0xC5d2dEaFB7dA477833666c2ce95cC0C7dA7330aa#code
+**Whitelist -** https://sepolia.etherscan.io/address/0xC5d2dEaFB7dA477833666c2ce95cC0C7dA7330aa#code
 
-https://sepolia.etherscan.io/address/0x075fF507e1e632AA641e9A9EC3c72f8309A7f9D8#code
+**CryptoDev -** https://sepolia.etherscan.io/address/0x075fF507e1e632AA641e9A9EC3c72f8309A7f9D8#code
